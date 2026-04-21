@@ -34,7 +34,7 @@ No database. No config files. Single Python script — just run it.
 ## Quick start
 
 ```bash
-git clone https://github.com/MikhailBelkin/blackhole-server.git
+git clone https://github.com/MikhailBelkin/SimpleBlackHoleServer.git
 cd blackhole-server
 
 # Ports below 1024 require root
