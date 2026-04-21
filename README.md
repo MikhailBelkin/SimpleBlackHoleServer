@@ -35,7 +35,7 @@ No database. No config files. Single Python script — just run it.
 
 ```bash
 git clone https://github.com/MikhailBelkin/SimpleBlackHoleServer.git
-cd blackhole-server
+cd SimpleBlackHoleServer
 
 # Ports below 1024 require root
 sudo python3 blackhole_server.py
